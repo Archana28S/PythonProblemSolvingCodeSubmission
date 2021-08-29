@@ -3,7 +3,7 @@ Type " help", "copyright", "credits" or "license()" for more information.
 
 # Problem Set 0
 # Name: Archana Sharma
-# Time Spent: 00:40
+# Time Spent: 01:20
 1)
 >>> input("Enter your date of birth")
 Enter your date of birth 20/08/2001
