@@ -1,6 +1,6 @@
 # Problem Set 1
 # Name: Archana Sharma
-# Time Spent: 12:00
+# Time Spent: 2:00
 
 #Problem 1:
 #Write a program to calculate the credit card balance after one year if a person only pays the minimum monthly payment required by the credit card company each month. 
