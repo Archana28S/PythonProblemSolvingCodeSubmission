@@ -1,3 +1,9 @@
+# Problem Set 1
+# Name: Archana Sharma
+# Time Spent: 3:00
+
+
+
 balance = float(input('enter the outstanding balance on your credit card:'))
 annual_interest_rate=float(input('enter the annual credit card interest rate as a decimal:'))
 
